@@ -11,8 +11,8 @@ tags = {
 Name = "arun123"
 }
 }
-resource "aws_s3_bucket" "venna" {
-bucket = "venna12"
+resource "aws_s3_bucket" "pu" {
+bucket = "pu12"
 tags = {
 Name = "master"
 }
